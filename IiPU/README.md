@@ -3,6 +3,5 @@
 ------------
 
 ## laba_1
-List PCI Device.<br/> [*C# with WMI*](./lab1 C#) and [*C++*](./lab1 C++)
-
-------------
+List PCI device. <br/>
+[*C# with WMI*](./lab1%20C%23) and [*C++*](./lab1%20C++)

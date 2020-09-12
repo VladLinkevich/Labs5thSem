@@ -1,7 +1,6 @@
-#TOKC
-
+# TOKC
 ___
 
-##Laba_1
+## Laba_1
 
 [*COMPort*](./laba_1) with change BaudRate

@@ -1,8 +1,8 @@
-#SIFO
+# SIFO
 
 ____
 
-##Laba1
+## Laba1
 
 [*Four bits comparator*](./lab_1)
 
