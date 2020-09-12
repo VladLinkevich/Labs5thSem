@@ -1,0 +1,70 @@
+# Copyright (C) 1991-2010 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Signal Activity File Name: "C:/Users/mipro/Desktop/SIFO/next/next.saf"
+# Created On: "09/09/2020 13:43:32"
+# Created By: "Version 9.1 Build 350 03/24/2010 Service Pack 2 SJ Web Edition"
+# This file was created by the Quartus(R) II Simulator with glitch filtering disabled.
+
+FORMAT_VERSION 1;
+
+DEFINE_FLAG TOGGLE_RATE_FROM_SIMULATION 0x1;
+DEFINE_FLAG STATIC_PROBABILITY_FROM_SIMULATION 0x2;
+DEFINE_FLAG TOGGLE_RATE_FROM_USER 0x4;
+DEFINE_FLAG STATIC_PROBABILITY_FROM_USER 0x8;
+DEFINE_FLAG TOGGLE_RATE_FROM_USER_DEFAULT 0x10;
+DEFINE_FLAG STATIC_PROBABILITY_FROM_USER_DEFAULT 0x20;
+DEFINE_FLAG TOGGLE_RATE_FROM_VECTORLESS_ESTIMATION 0x40;
+DEFINE_FLAG STATIC_PROBABILITY_FROM_VECTORLESS_ESTIMATION 0x80;
+DEFINE_FLAG TOGGLE_RATE_ASSUMED_ZERO 0x100;
+DEFINE_FLAG TOGGLE_RATE_CLIPPED_TO_MAX 0x200;
+
+BEGIN_OUTPUT_SIGNAL_INFO;
+
+# Output Signal Information Line Format Description:
+
+# <one or more spaces><partial output signal name><spaces>[<flags mask><spaces><toggle rate><spaces><static probability>]<;>
+
+ A0 0x3 0 0;
+ A1 0x3 0 0;
+ A2 0x3 0 0;
+ A3 0x3 0 0;
+ B0 0x3 0 0;
+ B1 0x3 0 0;
+ B2 0x3 0 0;
+ B3 0x3 0 0;
+ C 0x3 0 1;
+ D 0x3 0 0;
+ E 0x3 0 0;
+ inst3 0x3 0 1;
+ inst5 0x3 0 0;
+ inst9 0x3 0 0;
+ inst10 0x3 0 0;
+ inst11 0x3 0 0;
+ inst12 0x3 0 0;
+ inst13 0x3 0 1;
+ inst22 0x3 0 0;
+ inst24 0x3 0 0;
+ inst26 0x3 0 0;
+ inst28 0x3 0 0;
+ inst30 0x3 0 0;
+ inst31 0x3 0 0;
+ inst32 0x3 0 0;
+
+END_OUTPUT_SIGNAL_INFO;
+
+TOGGLE_PERCENTAGE 0;
+
+PERCENTAGE_OF_TIME_SIGNALS_IN_UNKNOWN_STATE 0;
+

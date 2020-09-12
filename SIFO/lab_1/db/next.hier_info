@@ -1,0 +1,22 @@
+|next
+C <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+A0 => inst22.IN0
+A0 => inst9.IN0
+B0 => inst22.IN1
+B0 => inst23.IN0
+A1 => inst24.IN0
+A1 => inst10.IN0
+B1 => inst24.IN1
+B1 => inst25.IN0
+A2 => inst26.IN0
+A2 => inst11.IN0
+B2 => inst26.IN1
+B2 => inst27.IN0
+A3 => inst28.IN0
+A3 => inst12.IN0
+B3 => inst28.IN1
+B3 => inst29.IN0
+D <= inst13.DB_MAX_OUTPUT_PORT_TYPE
+E <= inst32.DB_MAX_OUTPUT_PORT_TYPE
+
+
