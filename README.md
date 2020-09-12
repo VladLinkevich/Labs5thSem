@@ -3,4 +3,4 @@
 * [**SIFO**](./SIFO) (Quartus II)
 * [**TRiTPO**](./TRiTPO) (Unity)
 * [**TOKC**](./ТОКС) (C#)
-![danse](https://i.gifer.com/embedded/download/2Fwy.gif)
+![danse](https://i.gifer.com/4EBs.gif )
