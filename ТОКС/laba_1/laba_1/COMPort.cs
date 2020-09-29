@@ -101,12 +101,11 @@ namespace laba_1
             }
         }
 
-        [STAThread]
+        
         private void DisplayData(string msg)
         {
             _displayWindow.Invoke(new EventHandler(delegate
             {
-                //_displayWindow.Text = string.Empty;
                 _displayWindow.AppendText(msg);
                 _displayWindow.ScrollToCaret();
             }));
@@ -115,7 +114,6 @@ namespace laba_1
         private void comPort_DataReceived(object sender, SerialDataReceivedEventArgs e)
         {
                     string msg = _serialPort.ReadExisting();
-                    //display the data to the user
                     DisplayData(msg + "\r\n");               
         }
     }
