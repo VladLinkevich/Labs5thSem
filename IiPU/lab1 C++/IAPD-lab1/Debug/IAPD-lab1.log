@@ -1,3 +1,5 @@
 ﻿  main.cpp
+  stdafx.cpp
+  Generating Code...
 main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  IAPD-lab1.vcxproj -> C:\Users\mipro\Desktop\Labs5thSem-master\ИиПУ\lab1\Debug\IAPD-lab1.exe
+  IAPD-lab1.vcxproj -> C:\Users\mipro\Desktop\labs5thSem\IiPU\lab1 C++\Debug\IAPD-lab1.exe
