@@ -1,0 +1,15 @@
+M - Data
+R - Register
+
+const -> R
+mov 01xxxxxxxRRR  MMMMMMMMMMMM
+jz  10xxMMMMMMMM
+
+
+mov 5 100
+mov 7 800	- разрешаем переход 
+jz 08 		- есть переход
+mov 7 000	- запрещаем переход 
+jz 200		- нет перехода 
+mov 7 800	- разрешаем переход 
+jz 0

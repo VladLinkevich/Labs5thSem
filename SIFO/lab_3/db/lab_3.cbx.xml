@@ -8,6 +8,7 @@
 		<CBX_INST_ENTRY INSTANCE_NAME="|main|buffer:inst5|lpm_counter0:inst5|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_04i.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|main|lpm_mux0:inst|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_94e.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|main|ram:inst3|lpm_counter0:inst1|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_04i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|main|ram:inst3|lpm_counter0:inst3|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_04i.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|main|rom:inst12|lpm_add_sub0:inst5|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_elh.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|main|rom:inst12|lpm_counter0:inst1|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_04i.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|main|buffer:inst5|lpm_compare1:inst13|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_t8j.tdf"/>
